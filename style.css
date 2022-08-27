@@ -1,0 +1,22 @@
+.main {
+    display: flex;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.right-box {
+    padding-left: 20px;
+}
+
+.fixed {
+    position: fixed;
+    margin-left: 1300px;
+    margin-top: 350px;
+    background-color: aqua;
+}
+
+.imsge {
+    width: 20px;
+    height: 20px;
+
+}
