@@ -12,11 +12,11 @@
     position: fixed;
     margin-left: 1300px;
     margin-top: 350px;
-    background-color: aqua;
+    background-color: rgb(0, 255, 26);
 }
 
 .imsge {
-    width: 20px;
+    width: 40px;
     height: 20px;
 
 }
